@@ -1,0 +1,299 @@
+canonical_identifier: bkk:krp/KR5e0047/CK-KZ-jye/v1
+canonical_location: https://kanripo.org/bkk/KR5e0047/CK-KZ-jye/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 玄虛子鳴真集
+  date: '2015-08-29 02:09:13.984903'
+  source:
+    repository: kanripo
+    path: KR5e0047
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: CK-KZ-jye
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5e0047_000-CK-KZ-jye.yaml, hash: 'sha256:ca5d4620b6146011407b7df8dac66e1839fc907a01a03166f6afcf40bf838ba1'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5e0047_000-CK-KZ-jye.markers.yaml, hash: 'sha256:362da4d04b32df0955dc7283111dadd3e31f3000ad3d990e64687e78ef954441'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5e0047_CK-KZ-jye_000-h3
+    span:
+    - body
+    - 0
+    - 0
+  label: 七言律
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR5e0047_CK-KZ-jye_000-h4
+    span:
+    - body
+    - 0
+    - 280
+  label: 慧劍五首
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0047_CK-KZ-jye_000-h5
+    span:
+    - body
+    - 280
+    - 336
+  label: 聰明
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0047_CK-KZ-jye_000-h6
+    span:
+    - body
+    - 336
+    - 672
+  label: 題重皮谷玄都觀
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0047_CK-KZ-jye_000-h7
+    span:
+    - body
+    - 672
+    - 784
+  label: 詠竹
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0047_CK-KZ-jye_000-h8
+    span:
+    - body
+    - 784
+    - 952
+  label: 述懷
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0047_CK-KZ-jye_000-h9
+    span:
+    - body
+    - 952
+    - 1008
+  label: 題重皮谷深溪
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0047_CK-KZ-jye_000-h10
+    span:
+    - body
+    - 1008
+    - 1176
+  label: 警世¶<md:KR5e0047_HFL_000-007a>
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0047_CK-KZ-jye_000-h11
+    span:
+    - body
+    - 1176
+    - 1232
+  label: 命汾陰張先生
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0047_CK-KZ-jye_000-h12
+    span:
+    - body
+    - 1232
+    - 1400
+  label: 弔馬
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0047_CK-KZ-jye_000-h13
+    span:
+    - body
+    - 1400
+    - 1458
+  label: 安恬養素
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0047_CK-KZ-jye_000-h14
+    span:
+    - body
+    - 1458
+    - 1570
+  label: 寂靜無憂
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0047_CK-KZ-jye_000-h15
+    span:
+    - body
+    - 1570
+    - 1682
+  label: 道貴自然
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0047_CK-KZ-jye_000-h16
+    span:
+    - body
+    - 1682
+    - 1794
+  label: 閑中得趣
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0047_CK-KZ-jye_000-h17
+    span:
+    - body
+    - 1794
+    - 1850
+  label: 贈道人李志遇
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0047_CK-KZ-jye_000-h18
+    span:
+    - body
+    - 1850
+    - 1906
+  label: 贈吳道判
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0047_CK-KZ-jye_000-h19
+    span:
+    - body
+    - 1906
+    - 2018
+  label: 述懷
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0047_CK-KZ-jye_000-h20
+    span:
+    - body
+    - 2018
+    - 2074
+  label: 題王官谷玄通觀
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0047_CK-KZ-jye_000-h21
+    span:
+    - body
+    - 2074
+    - 2074
+  label: 七言絕句
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR5e0047_CK-KZ-jye_000-h22
+    span:
+    - body
+    - 2074
+    - 2102
+  label: 初機
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0047_CK-KZ-jye_000-h23
+    span:
+    - body
+    - 2102
+    - 2130
+  label: 答王先生問道在何處
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0047_CK-KZ-jye_000-h24
+    span:
+    - body
+    - 2130
+    - 2158
+  label: 贈張先生不悟
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0047_CK-KZ-jye_000-h25
+    span:
+    - body
+    - 2158
+    - 2186
+  label: 贈李道人
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0047_CK-KZ-jye_000-h26
+    span:
+    - body
+    - 2186
+    - 2214
+  label: 詠茶¶<md:KR5e0047_HFL_000-012a>
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0047_CK-KZ-jye_000-h27
+    span:
+    - body
+    - 2214
+    - 2242
+  label: 神珠
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0047_CK-KZ-jye_000-h28
+    span:
+    - body
+    - 2242
+    - 2270
+  label: 禪道
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0047_CK-KZ-jye_000-h29
+    span:
+    - body
+    - 2270
+    - 2298
+  label: 坐淨
+  type: section
+  level: 3
+hash: sha256:695d04a27b51577809acfbbe3b586d597de6cae22b9d4bd4e772a50b550fd53b

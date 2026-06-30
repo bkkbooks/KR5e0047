@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5e0047/CK-KZ/v1
+canonical_location: https://kanripo.org/bkk/KR5e0047/CK-KZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 玄虛子鳴真集
+  date: '2015-08-29 02:09:13.984903'
+  source:
+    repository: kanripo
+    path: KR5e0047
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: CK-KZ
+    label: 【重刊道藏輯要】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5e0047_000-CK-KZ.yaml, hash: 'sha256:1847cb0fb28e37860eee90acb896e842c23ed142d1db8e454a81cbba83ce9c47'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5e0047_000-CK-KZ.markers.yaml, hash: 'sha256:6edcd64c650ce65a1456deba573e4a711cd66a3f1165d0151b09c89ff635b89e'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5e0047_CK-KZ_01p044a
+    span:
+    - body
+    - 0
+    - 2409
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:7a63ad1a83f1f76089a868831c7a3ccb54a243695b7cb143b2d819a5c67d0a3b
