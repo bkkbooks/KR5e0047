@@ -24,7 +24,7 @@ assets:
   parts:
   - {seq: 0, filename: KR5e0047_000-CK-KZ-jye.yaml, hash: 'sha256:ca5d4620b6146011407b7df8dac66e1839fc907a01a03166f6afcf40bf838ba1'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR5e0047_000-CK-KZ-jye.markers.yaml, hash: 'sha256:362da4d04b32df0955dc7283111dadd3e31f3000ad3d990e64687e78ef954441'}
+  - {seq: 0, role: markers, filename: assets/KR5e0047_000-CK-KZ-jye.markers.yaml, hash: 'sha256:e8459969410fabe76b3828f0bec9f3dcffb390f1fd4613244f3249f9f60d3ba0'}
 table_of_contents:
 - ref:
     seq: 0
@@ -296,4 +296,4 @@ table_of_contents:
   label: 坐淨
   type: section
   level: 3
-hash: sha256:695d04a27b51577809acfbbe3b586d597de6cae22b9d4bd4e772a50b550fd53b
+hash: sha256:57b00352fef6a7df7632e4560ca4100837dce88b75ddaedd8c8126f3e0ba73ce
